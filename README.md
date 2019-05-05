@@ -1,6 +1,6 @@
 # Portfolio site built using react
 
-This project is one of my current side projects. To see my portfolio site, please visit [nikhilvijayan.com](http://nikhilvijayan.com).
+This project is one of my (long term) side projects that is under construction. To see my live portfolio site, please visit [nikhilvijayan.com](http://nikhilvijayan.com).
 
 ## Why another portfolio site?
 
@@ -15,4 +15,3 @@ Currently none of the code is tested. A deploy pipeline would allow me to run te
 ### ESlint and Prettier
 
 I'm using Wes Bos' [No-Sweat™ Eslint and Prettier Setup](https://github.com/wesbos/eslint-config-wesbos).
-
